@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-71-jihwanan \
             --delete
-        working-directory: static
+        working-directory: ./my-agora-states-client
